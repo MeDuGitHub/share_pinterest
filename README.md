@@ -3,7 +3,7 @@
 Chrome浏览器下载地址：https://www.google.cn/chrome/index.html
 ## 第一次打开软件使用配置  
 ![UTLQT66MIR9@VNEPLYBAI3J](https://user-images.githubusercontent.com/44847916/199168457-31dc3beb-a962-4aab-bcd7-b5ed6ab322ab.png)
-## 浏览器缓存配置  
+## 浏览器缓存配置  浏览器缓存配置目录一般在：C:/Users/（用户名）/AppData/Local/Google/Chrome/User Data （用户名）记得修改成你的用户名
 ![334H~X8D8OQ0D_0TOA(8G`7](https://user-images.githubusercontent.com/44847916/199168896-db00fc82-aea0-4627-938b-8696fc2d83d4.png)
 ## 点击保存账号密码缓存 保存配置好的账号密码和浏览器缓存 下次使用就不再需要输入账号密码
 ![3_O93D3{REL$36CD6LVH_3T](https://user-images.githubusercontent.com/44847916/199169125-d80ecdef-fa9f-4437-92c6-c430ad47a4d9.png)
