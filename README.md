@@ -10,6 +10,6 @@ Chrome浏览器下载地址：https://www.google.cn/chrome/index.html
 ## 点击分享链接文件路径 选择分享链接文件 文件名以.xlsx结尾  如果不选择文件默认使用软件目录下的 "WordPress产品.xlsx" 文件
 ![(0B WITD)~DJBIQT6A BB$I](https://user-images.githubusercontent.com/44847916/199169412-2c3725e5-5b14-45c4-b021-fc24916a1a42.png)
 ## 分享链接文件路径 数据格式
-![72}C0$TOVJKHQ(T$AJJNX7G](https://user-images.githubusercontent.com/44847916/199170214-3167d6cc-5085-4089-94ac-c2bc1eaaf309.png)
-## 最后一班点击开始分享 程序自动开始执行
+![_CSXN)JL`6L%I396VXRJLC4](https://user-images.githubusercontent.com/44847916/199388791-9e3cc5cf-60ab-4b7e-9e13-7076c5ebf3c9.png)
+## 最后点击开始分享 程序自动开始执行
 ![P4S6@0POPEX@8Y)1QG@M2X2](https://user-images.githubusercontent.com/44847916/199170857-10d74917-8a84-482e-8f88-02d878654888.png)
