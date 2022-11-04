@@ -1,4 +1,6 @@
 # share_pinterest使用文档
+## 第一步先下载文件包  
+![TDHR _%GP64{ZJ BNRV%JC1](https://user-images.githubusercontent.com/44847916/199929489-226d9a95-b768-4114-9c9c-fe444837beab.png)  
 ## 软件使用前需要先安装好Chrome浏览器
 Chrome浏览器下载地址：https://www.google.cn/chrome/index.html
 ## 第一次打开软件使用配置  
